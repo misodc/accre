@@ -40,3 +40,12 @@ hero:
     url: "/docs/"
 
   # info: "**Open Source** MIT Licensed."
+
+
+# Image text
+imageText:
+  enable: false
+
+# Image compare
+imageCompare:
+  enable: false
