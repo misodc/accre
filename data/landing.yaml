@@ -41,8 +41,25 @@ hero:
 
   # info: "**Open Source** MIT Licensed."
 
+# Feature Grid
+featureGrid:
+  enable: true
+  weight: 20
+  template: feature grid
 
-# Image text
+  title: Bataan Peninsula State University
+  subtitle: Dinalupihan Campus
+
+  items:
+    - title: Vision
+      icon: list
+      description: An inclusive and sustainable University recognized for its global academic excellence by 2030
+
+    - title: Mission
+      icon: list
+      description: To develop innovative leaders and empowered communities by delivering transformative instruction, research, extension, and production through Change Drivers and responsive policies.
+
+# Image Text
 imageText:
   enable: false
 
