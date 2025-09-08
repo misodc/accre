@@ -153,3 +153,7 @@ title = "BPSU DC Accreditation"
     #       ["Code sample errors", "One or more code samples are incorrect."],
     #       ["Something else"]
     #     ]
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
