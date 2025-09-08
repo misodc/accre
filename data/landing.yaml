@@ -1,0 +1,42 @@
+# Note: Template blocks require a 'weight' parameter so they're correctly ordered on the landing page
+
+# Hero
+hero:
+  enable: true
+  weight: 10
+  template: hero
+
+  backgroundImage:
+    path: "images/templates/hero"
+    filename:
+      desktop: "gradient-desktop.webp"
+      mobile: "gradient-mobile.webp"
+
+  # badge:
+    # text: v0.1.0
+    # color: primary # primary, secondary, success, danger, warning, info, light, dark
+    # pill: false # boolean
+    # soft: true # boolean
+
+  titleLogo:
+    path: "img"
+    filename: "Bataan_Peninsula_State_University_logo.png"
+    alt: "Lotus Docs Logo"
+    height: 80px
+
+  title: "BPSU DC Accreditation"
+  subtitle: "Welcome to the BPSU Dinalupihan accreditation site"
+
+  image:
+    path: "img" # path to image under configured assets directory. default 'images'
+    filename: "Banner.png" # filename of your hero image (including file extension)
+    alt: "Lotus Docs Screenshot" # Optional but recommended
+    boxShadow: false # default 'false' (excludes .svg images)
+    rounded: false # round the image corners? default 'false' (excludes .svg images)
+
+  ctaButton:
+    icon: rocket_launch
+    btnText: "Accreditation page"
+    url: "/docs/"
+
+  # info: "**Open Source** MIT Licensed."
