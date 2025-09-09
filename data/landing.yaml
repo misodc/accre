@@ -21,7 +21,7 @@ hero:
   titleLogo:
     path: "img"
     filename: "Bataan_Peninsula_State_University_logo.png"
-    alt: "Lotus Docs Logo"
+    alt: "BPSU Logo"
     height: 80px
 
   title: "BPSU DC Accreditation"
@@ -30,14 +30,14 @@ hero:
   image:
     path: "img" # path to image under configured assets directory. default 'images'
     filename: "Banner.png" # filename of your hero image (including file extension)
-    alt: "Lotus Docs Screenshot" # Optional but recommended
+    alt: "BPSU Banner" # Optional but recommended
     boxShadow: false # default 'false' (excludes .svg images)
     rounded: false # round the image corners? default 'false' (excludes .svg images)
 
   ctaButton:
     icon: rocket_launch
     btnText: "Accreditation page"
-    url: "/docs/"
+    url: "docs/"
 
   # info: "**Open Source** MIT Licensed."
 
