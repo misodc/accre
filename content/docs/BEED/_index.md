@@ -1,5 +1,5 @@
 +++
-weight = 100
+weight = 1000
 draft = false
 title = "BEED"
 icon = "folder"

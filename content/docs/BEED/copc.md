@@ -1,5 +1,5 @@
 +++
-weight = 2
+weight = 1002
 draft = false
 title = "Certificate of Program Comliance (COPC)"
 toc = true

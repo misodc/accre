@@ -1,5 +1,5 @@
 +++
-weight = 4
+weight = 3004
 draft = false
 title = "List of the Core Faculty"
 icon = "list"
