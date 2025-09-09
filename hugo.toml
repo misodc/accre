@@ -53,10 +53,8 @@ title = "BPSU DC Accreditation"
   secondary_font  = "Inter"     # Default is System font
   mono_font       = "Fira Code" # Default is System font
 
-    [params.navigation]
-        logo = "assets/img/Bataan_Peninsula_State_University_logo.png"
     [params.footer]
-        copyright = "© :YEAR: MISO Dinalupihan Campus. Built with [**Lotus Docs**](https://github.com/colinwilson/lotusdocs)"
+        copyright = "© :YEAR: MISO Dinalupihan Campus."
         # version = true # includes git commit info
 
     [params.social]
@@ -80,7 +78,7 @@ title = "BPSU DC Accreditation"
         # prismTheme      = "lotusdocs"                           # (optional) - Set theme for PrismJS. Options include: lotusdocs (default), solarized-light, twilight, lucario
 
         # gitinfo
-        repoURL         = "https://github.com/misodc/lotusdocs.dev"  # Git repository URL for your site [support for GitHub, GitLab, and BitBucket]
+        repoURL         = "https://github.com/misodc/accre.git"  # Git repository URL for your site [support for GitHub, GitLab, and BitBucket]
         repoBranch      = "release"
         editPage        = true                                # enable 'Edit this page' feature - default false
         lastMod         = true                                # enable 'Last modified' date on pages - default false
